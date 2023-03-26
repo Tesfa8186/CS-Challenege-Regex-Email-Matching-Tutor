@@ -53,11 +53,14 @@
 
 ### Grouping Constructs
 
-- Grouping constructors allow to combine a sequence of tokens to operate them together. I have used this pattern on my application to group letters, numbers & other charactors.
+- Grouping constructors allow to combine a sequence of tokens to operate them together.
+- I have used this pattern on my application to group letters, numbers & other charactors.
 
 ### Character Classes
 
-- Character classes help to list the charactors inorder to make valid or invalid. The characters I used for this app listed on line 14 of the index.js file. These are `/[a-z0-9_]+@[a-z]+.[a-z]{3}/i`.
+- Character classes help to list the charactors inorder to make valid or invalid.
+- The characters I used for this app listed on line 14 of the index.js file.
+- These are `/[a-z0-9_]+@[a-z]+.[a-z]{3}/i`.
 
 ### Flags
 
@@ -72,6 +75,10 @@
 ### Links
 
 - [The URL GitHub Repository Link](https://github.com/Tesfa8186/CS-Challenege-Regex-Email-Matching-Tutor)
+
+- [Walkthrough Video Link](https://drive.google.com/file/d/1C3GVp2DMlWrEJiljJ6CxB7lH3G33h6m_/view)
+
+- [The URL GitHub gist Repo Link](https://gist.github.com/Tesfa8186/199e852511265970bcf73b801b138383)
 
 ### License
 
